@@ -8,4 +8,6 @@ Qn.2)check whether the number is odd or even
 
 Qn.3)swap two values
 
-Qn.3) check wheter a student passed or failed in a exam using ternary operators
+Qn.4) check wheter a student passed or failed in a exam using ternary operator
+
+Qn.5) check if the number is divisible by 3 or by 5
