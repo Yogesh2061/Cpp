@@ -1,3 +1,4 @@
+//check whether a student passed or not
 #include<iostream>
 using namespace std;
 int main(){
