@@ -33,3 +33,35 @@ Qn.14)find the sum of series : s=1-2+3-4....n
 Qn.15)print the 1st nth factorial number.
 
 Qn.16)Given 2 numbers a & b.find a raise to the power b.
+
+Qn.17)write a function to add 2 numbers.
+
+Qn.18)write a function to print area and circumference of circle.
+
+Qn.19)print all odd numbers between two numbers.
+
+Qn.20)wap to print all the prime numbers present between a and b.
+
+Qn.21)Print square of first 5 natural number.
+
+Qn.22)
+
+Qn.23)
+
+Qn.24)
+
+Qn.25)
+
+Qn.26)
+
+Qn.27)
+
+Qn.28)
+
+Qn.29)
+
+Qn.30)
+
+Qn.31)
+
+Qn.32)
